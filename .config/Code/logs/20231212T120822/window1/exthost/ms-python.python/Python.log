@@ -1,0 +1,31 @@
+2023-12-12 12:08:23.747 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-12 12:08:23.747 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-12 12:08:23.747 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-12 12:08:23.747 [info] Experiment 'pythonTestAdapter' is active
+2023-12-12 12:08:23.790 [info] Test server listening.
+2023-12-12 12:08:23.791 [info] Python interpreter path: /bin/python3
+2023-12-12 12:08:25.689 [info] Starting Pylance language server.
+2023-12-12 12:08:42.959 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-12 12:08:42.959 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-12 12:08:42.959 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-12 12:08:42.959 [info] Experiment 'pythonTestAdapter' is active
+2023-12-12 12:08:42.980 [info] Default formatter is set to null for workspace /home/tango/day2
+2023-12-12 12:08:42.990 [info] Test server listening.
+2023-12-12 12:08:42.991 [info] Python interpreter path: ./venv/bin/python
+2023-12-12 12:08:44.781 [info] Starting Pylance language server.
+2023-12-12 12:09:49.324 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 12:25:19.495 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 12:26:32.159 [info] CreateEnv Trigger - Skipping for /home/tango/day2/solver.py
+2023-12-12 12:26:32.267 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 12:26:32.406 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/solver.py
+2023-12-12 12:26:32.769 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 12:38:30.292 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/solver.py
+2023-12-12 13:22:48.422 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/clone repo/lesson-002-e9pkumar/assignment.py
+2023-12-12 15:46:37.498 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/math-002-e9pkumar/answer.py
+2023-12-12 15:46:38.074 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/math-002-e9pkumar/answer.py
+2023-12-12 16:02:56.635 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/math-002-e9pkumar/answer.py
+2023-12-12 16:31:14.033 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/math-002-e9pkumar/solver.py
+2023-12-12 16:31:14.266 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/math-002-e9pkumar/solver.py
+2023-12-12 16:41:35.881 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/math-002-e9pkumar/solver.py
+2023-12-12 16:46:53.091 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/math-002-e9pkumar/solver.py
+2023-12-12 16:46:53.338 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/math-002-e9pkumar/solver.py

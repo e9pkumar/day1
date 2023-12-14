@@ -1,0 +1,16 @@
+file:///home/tango/day2/math-002-e9pkumar/answer.py {"mtime":1702376197810,"ctime":1702376019361,"size":207,"etag":"3bjshdrok6l","orphaned":false,"typeId":""}
+
+def answer(num):
+    a,b=0,1
+    while a <= num:
+        yield a
+        a,b=b,a+b
+ 
+ 
+num=4000000           
+c=tuple(answer(num))
+#print(next(c))
+#print(next(c))
+print(c)
+even_num = sum(tuple(filter(lambda x : x%2==0,c)))
+print(even_num)

@@ -1,0 +1,12 @@
+2023-12-12 18:05:13.666 [info] Extension host with pid 3181 started
+2023-12-12 18:05:13.666 [info] Skipping acquiring lock for /home/tango/.config/Code/User/workspaceStorage/71b1cdaa1e7d719bae33c2322f655cd1.
+2023-12-12 18:05:13.766 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-12 18:05:13.772 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 18:05:14.145 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 18:05:14.832 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-12 18:05:14.846 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-12 18:05:14.865 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-12 18:05:14.906 [info] Eager extensions activated
+2023-12-12 18:05:14.918 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 18:05:14.920 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 18:05:15.025 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

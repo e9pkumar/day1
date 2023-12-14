@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />
+    <meta name="robots" content="noindex, nofollow">
+
+    <title>GitHub Classroom</title>
+
+    <link rel="stylesheet" href="/assets/application-049eb7d4032dc4831c94ad0c36a69985c8b7901762e9fbc4cd1f0fe44ce57fe7.css" media="all" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6iueAN2w+Bzwk3eAjV16jmeg0oI5kCZ+rBROW0B7KvV3g8OTdcaul28npGwFnd/7yQ6+KC3FXxuAvAeLs56E8w==" />
+
+    <meta property="og:title" content="GitHub Classroom" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub." />
+<meta property="og:url" content="https://classroom.github.com/" />
+<meta property="og:image" content="https://classroom.github.com/images/og-image.png" />
+
+  </head>
+  <body class="assignment_invitations show">
+    <div id="loading-indicator" class="d-none">
+      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+    </div>
+
+    
+    <header class="site-header">
+  <div class="container-lg d-md-flex flex-items-center flex-justify-between p-responsive py-3">
+    <a class="d-block text-center mb-2 mb-md-0" href="/classrooms"><img class="site-logo" alt="GitHub for Classrooms" src="/assets/logo@2x-5c787a970289a7fdc86f11a38efd9b163ff8234e7be2518615a52c6271adbc2d.png" /></a>
+
+    <nav aria-labelledby="nav-heading" class="site-nav d-sm-flex flex-wrap flex-content-start flex-justify-center">
+      <h2 id="nav-heading" class="sr-only">GitHub Classroom</h2>
+      <ul class="list-style-none d-flex flex-justify-center">
+        <li class="flex-self-center mr-2">
+          <a href="https://education.github.com" data-view-component="true" class="Link">GitHub Education</a>
+        </li>
+        
+        <li class="mx-2">
+          <div data-view-component="true" class="Button-withTooltip">
+  <a href="https://education.github.com/forum" id="icon-button-9370bb58-2889-48f0-a009-8d37bfa5f66d" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion Button-visual">
+    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
+</svg>
+</a>  <tool-tip id="tooltip-a52389b0-fb63-4cbe-a980-34ad082fd4ef" for="icon-button-9370bb58-2889-48f0-a009-8d37bfa5f66d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Community discussion</tool-tip>
+</div>
+        </li>
+
+        <li class="mx-2">
+          <div data-view-component="true" class="Button-withTooltip">
+  <a href="https://support.github.com/contact" id="icon-button-7ad5424f-1c74-4e56-aa9c-0a3b715de783" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bug Button-visual">
+    <path d="M4.72.22a.75.75 0 0 1 1.06 0l1 .999a3.488 3.488 0 0 1 2.441 0l.999-1a.748.748 0 0 1 1.265.332.75.75 0 0 1-.205.729l-.775.776c.616.63.995 1.493.995 2.444v.327c0 .1-.009.197-.025.292.408.14.764.392 1.029.722l1.968-.787a.75.75 0 0 1 .556 1.392L13 7.258V9h2.25a.75.75 0 0 1 0 1.5H13v.5c0 .409-.049.806-.141 1.186l2.17.868a.75.75 0 0 1-.557 1.392l-2.184-.873A4.997 4.997 0 0 1 8 16a4.997 4.997 0 0 1-4.288-2.427l-2.183.873a.75.75 0 0 1-.558-1.392l2.17-.868A5.036 5.036 0 0 1 3 11v-.5H.75a.75.75 0 0 1 0-1.5H3V7.258L.971 6.446a.75.75 0 0 1 .558-1.392l1.967.787c.265-.33.62-.583 1.03-.722a1.677 1.677 0 0 1-.026-.292V4.5c0-.951.38-1.814.995-2.444L4.72 1.28a.75.75 0 0 1 0-1.06Zm.53 6.28a.75.75 0 0 0-.75.75V11a3.5 3.5 0 1 0 7 0V7.25a.75.75 0 0 0-.75-.75ZM6.173 5h3.654A.172.172 0 0 0 10 4.827V4.5a2 2 0 1 0-4 0v.327c0 .096.077.173.173.173Z"></path>
+</svg>
+</a>  <tool-tip id="tooltip-cbc9543b-5f02-4c49-8868-62e857d02aed" for="icon-button-7ad5424f-1c74-4e56-aa9c-0a3b715de783" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Report a bug</tool-tip>
+</div>
+        </li>
+
+        <li class="mx-2">
+          <div data-view-component="true" class="Button-withTooltip">
+  <a href="/help" id="icon-button-a014170e-47a7-4190-9b91-5b8542e3644b" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-question Button-visual">
+    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.92 6.085h.001a.749.749 0 1 1-1.342-.67c.169-.339.436-.701.849-.977C6.845 4.16 7.369 4 8 4a2.756 2.756 0 0 1 1.637.525c.503.377.863.965.863 1.725 0 .448-.115.83-.329 1.15-.205.307-.47.513-.692.662-.109.072-.22.138-.313.195l-.006.004a6.24 6.24 0 0 0-.26.16.952.952 0 0 0-.276.245.75.75 0 0 1-1.248-.832c.184-.264.42-.489.692-.661.103-.067.207-.132.313-.195l.007-.004c.1-.061.182-.11.258-.161a.969.969 0 0 0 .277-.245C8.96 6.514 9 6.427 9 6.25a.612.612 0 0 0-.262-.525A1.27 1.27 0 0 0 8 5.5c-.369 0-.595.09-.74.187a1.01 1.01 0 0 0-.34.398ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</a>  <tool-tip id="tooltip-853435de-2fd8-4517-8742-1e617d0b7c94" for="icon-button-a014170e-47a7-4190-9b91-5b8542e3644b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Help</tool-tip>
+</div>
+        </li>
+
+        <li class="mx-2">
+            <a aria-label="View GitHub profile" show_tooltip="true" href="https://github.com/e9pkumar" data-view-component="true" class="Button--invisible Button--medium Button Button--invisible-noVisuals">    <span class="Button-content">
+      <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/153479645?v=4&amp;size=40" alt="@e9pkumar" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" /></span>
+    </span>
+</a>  
+
+        </li>
+
+        <li class="ml-2">
+          <div data-view-component="true" class="Button-withTooltip">
+  <a href="/logout" id="icon-button-41f0b7b4-f7c7-4baa-b479-bd70cd44426b" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out Button-visual">
+    <path d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 0 1 0 1.5h-2.5a.25.25 0 0 0-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 2 13.25Zm10.44 4.5-1.97-1.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l3.25 3.25a.75.75 0 0 1 0 1.06l-3.25 3.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.97-1.97H6.75a.75.75 0 0 1 0-1.5Z"></path>
+</svg>
+</a>  <tool-tip id="tooltip-df74566d-2a7e-4d4f-bd31-cf2e67aceb46" for="icon-button-41f0b7b4-f7c7-4baa-b479-bd70cd44426b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Sign out</tool-tip>
+</div>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+    
+
+    
+
+    <main class="site-content">
+      <div class="container-lg">
+        
+<div class="site-content container-md pt-7 px-3">
+
+  <div class="col-lg-10 mx-auto mb-4">
+
+    <div class="f4 text-mono d-block color-fg-muted">enine-school-24af4d</div>
+    <h2 class="f1 text-normal lh-ultra mb-4">
+      Accept the assignment &mdash;
+      <span class='d-block color-fg-success'>Math 002</span>
+    </h2>
+
+
+    <form action="/assignment-invitations/a97e44d6db77ae5ddcae3ab299fcc0a2/accept" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="LYNP5B0kd5TqaociGF4Z+uJXrNwWfLRdfQZ0XS5S5qewKxJ3tVIhH3XeVM6QnryPTPnAdgIpzThRrj2N3bdIoQ==" autocomplete="off" />
+    <div class="pb-2">
+        <p class="f3 lh-default">
+          Once you accept this assignment, you will be granted access to the <span class="text-mono color-bg-accent f4 rounded-1 p-1 mr-1">math-002-e9pkumar</span>
+          repository in the <a href="https://github.com/enineschool" data-view-component="true" class="Link">enineschool</a> organization on GitHub.
+        </p>
+      </div>
+
+      <div class="form-actions">
+        <input type="submit" name="commit" value="Accept this assignment" class="btn btn-primary js-navigation" data-disable-with="Accept this assignment" />
+      </div>
+</form>
+  </div>
+
+</div>
+
+      </div>
+    </main>
+
+    <script src="/assets/application-a9719d4b62137439c4ff741c486b724c9b286819158f154ccff500f4f2a6f740.js"></script>
+  </body>
+</html>
+	œK>î      ex8ex=FUCex9   }    O^partitionKey=%28https%2Cgithub.com%29,:https://classroom.github.com/assignment-invitations/a97e44d6db77ae5ddcae3ab299fcc0a2 necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 
+server: GitHub.com
+date: Tue, 12 Dec 2023 08:30:49 GMT
+content-type: text/html; charset=utf-8
+x-robots-tag: noindex, nofollow
+etag: W/"f15509c5e17ed21dc4c16b91be3f64dc"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.456579
+strict-transport-security: max-age=631138519
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+content-security-policy: default-src https: 'self'; connect-src 'self' github.com *.github.com https://www.youtube.com https://s.ytimg.com https://www.google-analytics.com wss:; img-src 'self' data: *.githubusercontent.com *.github.com https://www.google-analytics.com https://i.ytimg.com; script-src 'self' https://www.youtube.com https://s.ytimg.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'
+x-github-backend: Kubernetes
+x-github-request-id: 0583:6E63:838BFF:EBEC08:65781A38
+X-Firefox-Spdy: h2
+ original-response-headers server: GitHub.com
+date: Tue, 12 Dec 2023 08:30:49 GMT
+content-type: text/html; charset=utf-8
+x-robots-tag: noindex, nofollow
+etag: W/"f15509c5e17ed21dc4c16b91be3f64dc"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: _github_classroom_session=h7vCHQwJXggAGXWQXuMBCI4OTuve8pbtpioXLDczlEu9PsqxWGYn5y04cMzV%2FbZXiatZYv%2BqrizhLWQzON8sm%2BrtfPeUCM7o1VSqCwyCiWhodXYjGkJ2UrCp%2F9JII9DgD8xNnYNZC97qp7ozMx7uAZwYT9F5dPuAJHQ9L39d1im%2Bk02HmWxp5%2BOfDFXeEZmfYOEy2%2Fga%2BpVuP74HKTQuzcjtA%2FaMbuXumuFmTvmn%2BhTDlSuoEoO6dZ0NXvrmqRFuZGNRdFfPItcMv%2F2eN4KvFrm38Vr0BPX%2FSkrLsjshuF00XVc8GpRcvOC%2Bm1eAGqohX2bpSkjb1ThjCkbln6aZKCApfs1V7Z6TzHsuBn956go1r%2FWhO6YugfdEEzTAj43XjLg1DzZBkhpFI6ZbHDMaKGU02ANwn2D6k%2FJtDOAtG68wk4sU33AsjSMtavo2sx6ANGANkbCY2hp8cE23%2F7ynShu9A07jvO0TRXWaTLCE3IpEZsrkYQvrCS6ktklTrJx6loCsdvG8n7q1QRzfcTNnYEN7p762gStqrHmR82dZv45yzkJh0OLNt%2F%2FA9WMDkPxBivj4hOSDbBvHOw0Hn84ShiLinZU6AaqOa7FnaPWtX%2Bw%2BQYMgj8nDLH1NG4PH2UK%2FsZkXRddLTwS0kYPm5gamdPg4vZul3FE5bSh%2BhuY5cMjG6wnW3Fd3CWQMkbI0L071AaFccEunj%2FfOOtpK0qiU830HvhNKOxvtEwTKxdY%3D--ds7y5bIXdB4KtCoT--SV6HOfAMlaoebCqCEVhZUw%3D%3D; path=/; HttpOnly; secure; SameSite=Lax
+x-runtime: 0.456579
+strict-transport-security: max-age=631138519
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+content-security-policy: default-src https: 'self'; connect-src 'self' github.com *.github.com https://www.youtube.com https://s.ytimg.com https://www.google-analytics.com wss:; img-src 'self' data: *.githubusercontent.com *.github.com https://www.google-analytics.com https://i.ytimg.com; script-src 'self' https://www.youtube.com https://s.ytimg.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'
+x-github-backend: Kubernetes
+x-github-request-id: 0583:6E63:838BFF:EBEC08:65781A38
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0 net-response-time-onstart 800 net-response-time-onstop 823   '`

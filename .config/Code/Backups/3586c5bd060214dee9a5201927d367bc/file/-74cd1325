@@ -1,0 +1,9 @@
+file:///home/tango/day2/clone%20repo/lesson-002-e9pkumar/answerr.py {"mtime":1702370586144,"ctime":1702370586144,"size":0,"etag":"3bjs9fp6s0","orphaned":false,"typeId":""}
+#Find the sum of the even-valued terms in the Fibonacci sequence whose values do not exceed four million.
+#Edit the file answer.py and update the function answer() to return the answe
+
+def fibonacci_num(num):
+    if num < 4000000:
+        for i in range (4000000):
+            a,b = 0,1
+            yield (a)                                                                                                                                                                                           

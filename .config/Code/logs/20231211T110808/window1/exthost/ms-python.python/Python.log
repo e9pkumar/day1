@@ -1,0 +1,120 @@
+2023-12-11 11:22:20.350 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-11 11:22:20.350 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-11 11:22:20.350 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-11 11:22:20.350 [info] Experiment 'pythonTestAdapter' is active
+2023-12-11 11:22:20.402 [info] Test server listening.
+2023-12-11 11:22:20.409 [info] > conda info --json
+2023-12-11 11:22:20.643 [info] Found: /bin/python3 --> /bin/python3.8
+2023-12-11 11:22:20.644 [info] Found: /bin/python3.8 --> /bin/python3.8
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 11:22:20.645 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 11:22:20.662 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2023-12-11 11:22:20.662 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2023-12-11 11:22:20.676 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/interpreterInfo.py
+2023-12-11 11:22:20.685 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/interpreterInfo.py
+2023-12-11 11:22:20.713 [info] Python interpreter path: /bin/python3
+2023-12-11 11:22:22.252 [info] Starting Pylance language server.
+2023-12-11 11:22:23.822 [info] CreateEnv Trigger - Workspace not found for /home/tango/sample.py
+2023-12-11 11:22:23.963 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:29:26.133 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:30:33.304 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:39:41.767 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:39:47.795 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:40:05.075 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:40:09.144 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:40:30.616 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:40:35.942 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:41:30.246 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:41:34.680 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:41:48.495 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:44:45.217 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:46:22.077 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 11:57:02.640 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 12:11:38.387 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 12:11:46.463 [info] Send text to terminal: /bin/python3 /home/tango/sample.py
+2023-12-11 15:29:25.792 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:29:53.515 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:30:16.606 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:31:24.366 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:31:29.316 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:32:13.136 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:32:15.071 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:32:24.463 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:33:45.046 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:33:55.502 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:34:02.102 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:34:31.389 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:34:36.059 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:34:59.924 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:35:40.298 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:35:47.210 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:36:41.012 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:37:01.483 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:37:02.574 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:37:07.179 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:37:40.079 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:38:42.950 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:39:00.221 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:39:23.097 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:39:28.527 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:40:07.398 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:40:13.222 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:40:30.401 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:40:31.401 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:41:17.535 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:41:23.913 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:41:38.491 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:42:05.887 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:42:06.696 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:42:07.472 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:42:17.046 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:42:29.656 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:43:09.754 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:44:00.445 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:44:04.912 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:45:41.937 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:45:43.283 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:45:49.132 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:45:58.471 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:46:38.723 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:46:41.514 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:47:03.793 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:47:34.566 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:48:29.843 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:48:47.517 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:48:48.693 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:49:01.082 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:49:52.339 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:49:57.628 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:50:08.789 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:52:04.469 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:52:07.944 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:52:58.857 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 15:53:09.131 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-11 16:15:42.244 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:15:53.605 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:16:37.081 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:16:46.848 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:17:01.827 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:17:34.112 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:19:34.935 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:05.032 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:09.890 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:19.711 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:41.475 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:47.069 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:21:59.084 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:25:06.762 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:25:11.731 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:26:07.847 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:44:14.251 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:44:52.206 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:45:54.540 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:51:50.940 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:51:58.956 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-11 16:57:04.313 [info] Send text to terminal: /bin/python3 /home/tango/solver.py

@@ -1,0 +1,23 @@
+2023-12-12 18:05:14.947 [info] Log level: Info
+2023-12-12 18:05:14.947 [info] Validating found git in: "git"
+2023-12-12 18:05:14.947 [info] Using git "2.25.1" from "git"
+2023-12-12 18:05:14.947 [info] > git rev-parse --show-toplevel [11ms]
+2023-12-12 18:05:14.947 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-12 18:05:14.947 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-12-12 18:05:14.958 [info] Open repository: /home/tango/day2/math-002-e9pkumar
+2023-12-12 18:05:14.971 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-12 18:05:14.972 [info] > git config --get commit.template [7ms]
+2023-12-12 18:05:14.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-12-12 18:05:14.986 [warning] ENOENT: no such file or directory, open '/home/tango/day2/math-002-e9pkumar/.git/refs/remotes/origin/main'
+2023-12-12 18:05:14.987 [info] > git rev-parse --show-toplevel [6ms]
+2023-12-12 18:05:14.988 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2023-12-12 18:05:14.994 [info] > git status -z -uall [2ms]
+2023-12-12 18:05:15.005 [info] > git config --get commit.template [2ms]
+2023-12-12 18:05:15.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-12 18:05:15.014 [warning] ENOENT: no such file or directory, open '/home/tango/day2/math-002-e9pkumar/.git/refs/remotes/origin/main'
+2023-12-12 18:05:15.015 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2023-12-12 18:05:15.022 [info] > git status -z -uall [2ms]
+2023-12-12 18:05:15.284 [info] > git show --textconv :solver.py [5ms]
+2023-12-12 18:05:15.286 [info] > git ls-files --stage -- /home/tango/day2/math-002-e9pkumar/solver.py [2ms]
+2023-12-12 18:05:15.291 [info] > git cat-file -s 809246a0f2ff383293afa6b62091083a98b76d37 [1ms]
+2023-12-12 18:05:15.480 [info] > git check-ignore -v -z --stdin [1ms]

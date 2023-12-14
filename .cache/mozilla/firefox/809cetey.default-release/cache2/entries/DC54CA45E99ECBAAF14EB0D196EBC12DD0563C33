@@ -1,0 +1,662 @@
+<!DOCTYPE html >
+<html lang="en" class="height-full">
+  <head>
+    <title>GitHub Education</title>
+    <meta name="description" content="">
+    <link rel="stylesheet" crossorigin="anonymous" href="/assets/public-a9e3f5b1bd6542f0f9a58b85a9b4be3d228ed6969bd60a6df867f108254da7c3.css" integrity="sha256-qeP1sb1lQvD5pYuFqbS+PSKO1pab1gpt+GfxCCVNp8M=" media="screen" />
+    <link rel="stylesheet" crossorigin="anonymous" href="/assets/print-7ef162f97c979d0b095276448acca4d64157fe8fa40e0b8707009a9ed558439d.css" media="print" integrity="sha256-fvFi+XyXnQsJUnZEisyk1kFX/o+kDguHBwCantVYQ50=" />
+    <script src="/assets/public-4374974936f2fc4b33ec0381a4b5f51a69c7563b51be87384dcbe6ef6cd1047d.js" crossorigin="anonymous" integrity="sha256-Q3SXSTby/Esz7AOBpLX1GmnHVjtRvoc4Tcvm72zRBH0="></script>
+    <script src="/assets/skip_to_main-d9cc808460d7eec555e080662196aaf66fa025756ed9e09070eda4ad2c3641e9.js" crossorigin="anonymous" integrity="sha256-2cyAhGDX7sVV4IBmIZaq9m+gJXVu2eCQcO2krSw2Qek="></script>
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JQnVnPNarMQMdycEcEt3GWY1O561izKWKgsTYtmQhN4bUZsRB4n9Xz2ZnY_3otK7pFuxb3-l0mD9-Tlme7ojYA" />
+      <meta name="ha-url" content="https://collector.githubapp.com/education-web/collect">
+        <meta name="ha-actor-id" content="153479645" />
+        <meta name="ha-actor-login" content="e9pkumar" />
+        <meta name="ha-actor-type" content="NONE" />
+      <script src="https://analytics.githubassets.com/hydro-marketing.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+      <meta property="og:url" content="http://education.github.com" />
+      <meta property="og:site_name" content="GitHub Education" />
+      <meta property="og:title" content="Discounted and free plans are available for educational use" />
+      <meta property="og:description" content="Teach and learn better, together. Learn to ship software like a pro." />
+      <meta property="og:type" content="website" />
+      <meta property="og:author" content="https://www.facebook.com/GitHub" />
+      <meta property="og:image" content="http://og.github.com/logo/github-logo@1200x1200.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="1200" />
+      <meta property="og:image" content="http://og.github.com/mark/github-mark@1200x630.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image" content="http://og.github.com/octocat/github-octocat@1200x630.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+
+      <meta property="twitter:site" content="@GitHubEducation" />
+      <meta property="twitter:site:id" content="1943578656" />
+      <meta property="twitter:creator" content="@GitHubEducation" />
+      <meta property="twitter:creator:id" content="1943578656" />
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:title" content="GitHub Education" />
+      <meta property="twitter:description" content="Teach and learn better, together. Learn to ship software like a pro. Discounted and free plans are available for educational use" />
+      <meta property="twitter:image:src" content="http://og.github.com/logo/github-logo@1200x1200.png" />
+      <meta property="twitter:image:width" content="1200" />
+      <meta property="twitter:image:height" content="1200" />
+  </head>
+  <body class="_benefits _index d-flex flex-column height-full" >
+    <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+    <div class="flex-auto">
+
+
+
+        <header>
+  <div class="d-md-block py-2 color-bg-emphasis">
+    <div class="container-xl p-responsive d-flex flex-md-justify-between">
+      <a class="d-block color-fg-on-emphasis no-underline" href="https://github.com">GitHub.com</a>
+      
+    </div>
+  </div>
+
+  <div class="py-4 color-bg-default border-bottom">
+    <div class="d-flex flex-column flex-lg-row flex-lg-items-center flex-lg-justify-between container-xl p-responsive flex-items-center">
+      <div class="f2-mktg">
+        <a class="color-fg-default" aria-label="Education homepage" href="/">
+          <svg class="octicon octicon-mark-github mr-2" fill="#000000" viewBox="0 0 16 16" width="31" height="31" version="1.1" aria-hidden="true"><path   d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>Education
+</a>      </div>
+
+      <nav class="mt-3 mt-md-0" aria-label="Global">
+        <ul class="d-flex flex-wrap flex-justify-center flex-items-center flex-md-justify-end list-style-none">
+          <li class="mb-2 mb-sm-3 mb-md-0">
+            <action-menu data-select-variant="none" data-view-component="true">
+  <focus-group direction="vertical" mnemonics retain>
+      <button id="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-button" popovertarget="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-overlay" aria-controls="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-list" aria-haspopup="true" type="button" data-view-component="true" class="Button--invisible Button--medium Button text-normal">    <span class="Button-content">
+      <span class="Button-label">Students</span>
+    </span>
+      <span class="Button-visual Button-trailingAction">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+      </span>
+</button>  
+
+
+<anchored-position id="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-overlay" anchor="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+  <div data-view-component="true" class="Overlay Overlay--size-auto">
+    
+      
+        <div data-view-component="true">
+  <ul aria-labelledby="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-button" id="action-menu-5aac0aa8-ede2-4f05-b24e-fbc1f28d7828-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-c8344b93-8f39-46d7-a52c-03db115ea379" href="/students" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Explore Student Programs
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-67b89849-bd31-4d43-9a2d-199c12557768" href="/students/octernships" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Octernships
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-102bacba-c9ab-40a0-9c67-05f7b8921b58" href="/pack/offers" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Get Your Student Developer Pack
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-8d76140c-178e-4df0-8954-5faa9b26227e" href="/experts" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Become a Campus Expert
+</span></a>
+  
+  
+</li>
+</ul>  
+</div>
+
+</div></anchored-position>  </focus-group>
+</action-menu>          </li>
+          <li class="mb-2 mb-sm-3 mb-md-0">
+            <action-menu data-select-variant="none" data-view-component="true">
+  <focus-group direction="vertical" mnemonics retain>
+      <button id="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-button" popovertarget="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-overlay" aria-controls="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-list" aria-haspopup="true" type="button" data-view-component="true" class="Button--invisible Button--medium Button text-normal">    <span class="Button-content">
+      <span class="Button-label">Teachers</span>
+    </span>
+      <span class="Button-visual Button-trailingAction">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+      </span>
+</button>  
+
+
+<anchored-position id="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-overlay" anchor="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+  <div data-view-component="true" class="Overlay Overlay--size-auto">
+    
+      
+        <div data-view-component="true">
+  <ul aria-labelledby="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-button" id="action-menu-025ea846-1293-4fd4-a273-6d73d83de094-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-29e31074-c99d-4cf1-aa4c-28d6b697ef34" href="/teachers" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Explore Teacher Programs
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-2e39e744-c06c-499c-94e3-91826ddd1642" href="https://classroom.github.com" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Learn About GitHub Classroom
+</span></a>
+  
+  
+</li>
+</ul>  
+</div>
+
+</div></anchored-position>  </focus-group>
+</action-menu>          </li>
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+            <a href="/schools" data-view-component="true" class="Link color-fg-default">Schools</a>
+          </li>
+
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+            <a href="/benefits" data-view-component="true" class="Link color-fg-accent">Benefits</a>
+          </li>
+
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+            <a href="/events" data-view-component="true" class="Link color-fg-default">Events</a>
+          </li>
+
+              <li class="d-flex flex-items-center ml-2 mr-3 mb-2 mb-sm-3 mb-md-0">
+  <a href="/global_campus/student" data-view-component="true" class="Link color-fg-default">Global Campus</a>
+</li>
+
+
+
+
+
+          <li class="d-flex flex-items-center ml-1 mr-3 mb-2 mb-sm-3 mb-md-0">
+              <action-menu data-select-variant="none" data-view-component="true">
+  <focus-group direction="vertical" mnemonics retain>
+      <button id="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-button" popovertarget="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-overlay" aria-controls="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-list" aria-haspopup="true" type="button" data-view-component="true" class="Button--invisible Button--medium Button text-normal">    <span class="Button-content">
+      <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/153479645?v=3&amp;size=40" alt="@e9pkumar" size="24" height="24" width="24" data-view-component="true" class="avatar circle" /></span>
+    </span>
+      <span class="Button-visual Button-trailingAction">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+      </span>
+</button>  
+
+
+<anchored-position id="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-overlay" anchor="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+  <div data-view-component="true" class="Overlay Overlay--size-auto">
+    
+      
+        <div data-view-component="true">
+  <ul aria-labelledby="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-button" id="action-menu-33e317ed-502b-4adc-bc96-8ed7b629cada-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <button tabindex="-1" id="item-3e8783b1-0556-42a9-8756-271074253428" type="button" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+                            <a href="https://github.com/e9pkumar" data-view-component="true" class="Link--primary Link">
+                    Signed in as <span data-view-component="true" class="text-bold">e9pkumar</span>
+</a>
+</span></button>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-005ba690-c570-43e3-a29c-a12a2205b5b6" href="https://github.com/e9pkumar" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Your GitHub profile
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-ebb073bc-54bf-48bf-98ef-e4f88665a7e6" href="/benefits" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Your benefits
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-1af72a6c-9613-47b5-b9af-e975704fefe2" href="/discount_requests/application" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Reverify your academic affiliation
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a target="_blank" tabindex="-1" data-link-location="2" id="item-17b83193-7882-4e4c-83fa-ce098dce6e2d" href="https://docs.github.com/en/education" role="menuitem" data-view-component="true" class="js-landing-page-link ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Education docs
+</span></a>
+  
+  
+</li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a target="_blank" rel="nofollow noopener noreferer" tabindex="-1" data-link-location="2" id="item-61448fae-5063-45a3-8501-9f7a8a22f01c" href="https://support.github.com/features/education" role="menuitem" data-view-component="true" class="js-landing-page-link ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Education support
+</span></a>
+  
+  
+</li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a target="_blank" tabindex="-1" data-link-location="2" id="item-05d96073-aa81-4ef8-90b4-1df0bc278a49" href="https://github.com/orgs/github-community/discussions/categories/github-education" role="menuitem" data-view-component="true" class="js-landing-page-link ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Education community
+</span></a>
+  
+  
+</li>
+      <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
+      <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    <a tabindex="-1" id="item-c74833f4-688a-401f-9280-dfb6dd11a4ad" href="/sign_out" role="menuitem" data-view-component="true" class="ActionListContent">
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Sign out
+</span></a>
+  
+  
+</li>
+</ul>  
+</div>
+
+</div></anchored-position>  </focus-group>
+</action-menu>
+          </li>
+
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+        <div class="container-lg text-center pt-4 pt-md-6">
+    <nav aria-label="Breadcrumb" class="mb-3"><ol><li class="breadcrumb-item text-mono f5-mktg"><a href="/">Home</a></li><li class="breadcrumb-item-selected color-fg-muted breadcrumb-item text-mono f5-mktg" aria-current="Benefits">Benefits</li></ol></nav>
+  </div>
+
+
+      <div id="start-of-content" class="show-on-focus"></div>
+      <main>
+        
+<div class="border-bottom shaded-background">
+  <div class="container-lg p-responsive">
+    <div class="text-center">
+      <h1 class="f0-mktg lh-condensed my-2">
+          Benefits for everyone at school
+      </h1>
+
+        <p class="f3-mktg color-fg-muted">Whether you’re starting your career or managing a classroom, <span class="d-md-block">we’ve got you covered.</span></p>
+    </div>
+
+    <div class="py-5">
+      <div class="col-md-9 mx-auto">
+        
+
+      </div>
+    </div>
+
+  </div>
+
+    <div class="container-xxl p-responsive">
+  <div class="d-xl-flex gutter-lg">
+    <div class="container-md col-xl-6 position-relative z-2 mr-xl-n4">
+      <div class="d-none d-xl-block position-relative bg-dots-gray-large position-absolute left-0 bottom-0 col-11 ml-3 mb-6" style="height: 348px;"></div>
+
+      <div class="position-relative z-1 color-shadow-large rounded-2 p-3 p-md-6 mb-5 mb-xl-0 color-bg-default">
+        <div class="text-center">
+          <h2 class="f0-mktg my-4 mt-lg-0">Individuals</h2>
+          <hr class="col-2 mx-auto mb-6">
+        </div>
+        <div class="d-md-flex gutter-md-spacious">
+          <div class="col-md-6 d-md-flex flex-column mb-6 mb-md-0">
+            <div class="text-md-center">
+              <h3 class="f1-mktg">Students</h3>
+              <p class="f3 lh-condensed my-3 my-md-5">Learn using real-world development tools</p>
+            </div>
+            <ul class="list-style-none f5 mb-3 mb-md-8 flex-auto">
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" /><span class="color-bg-success-emphasis rounded-1 color-fg-on-emphasis text-bold text-uppercase p-1" style="font-size: 10px !important;">Free</span>
+                <a href="https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro" data-view-component="true" class="Link Link--underline">GitHub Pro</a>
+                while you are a student
+              </li>
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" />Valuable
+                <a href="/pack" data-view-component="true" class="Link Link--underline">GitHub Student Developer Pack</a>
+                partner offers
+              </li>
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" />
+                <a href="/students/experts" data-view-component="true" class="Link Link--underline">GitHub Campus Expert training</a>
+                for qualified applicants
+              </li>
+            </ul>
+              <a href="/discount_requests/application" data-view-component="true" class="Button--primary Button--large Button py-4 f4 text-normal">    <span class="Button-content">
+      <span class="Button-label">Get school benefits</span>
+    </span>
+</a>  
+
+          </div>
+          <div class="col-md-6 d-md-flex flex-column">
+            <div class="text-md-center">
+              <h3 class="f1-mktg">Teachers</h3>
+              <p class="f3 lh-condensed my-3 my-md-5">Teach your students with the industry-standard tools</p>
+            </div>
+            <ul class="list-style-none f5 mb-3 mb-md-8 flex-auto">
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" /><span class="color-bg-success-emphasis rounded-1 color-fg-on-emphasis text-bold text-uppercase p-1" style="font-size: 10px !important;">Free</span>
+                <a href="https://github.com/pricing" data-view-component="true" class="Link Link--underline">GitHub Team</a>
+                for courses, coding clubs, and nonprofit research
+              </li>
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" />
+                <a href="https://classroom.github.com" data-view-component="true" class="Link Link--underline">GitHub Classroom</a>
+                for managing assignments
+              </li>
+            </ul>
+              <a href="/discount_requests/application" data-view-component="true" class="Button--primary Button--large Button py-4 f4 text-normal">    <span class="Button-content">
+      <span class="Button-label">Get teacher benefits</span>
+    </span>
+</a>  
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md col-xl-6 position-relative z-1 mt-xl-6 ml-xl-n4">
+      <div class="d-none d-xl-block bg-dots-gray position-absolute top-0 left-0 bottom-0 col-11" style="height: 248px;"></div>
+      <div class="py-xl-4"></div>
+      <div class="position-relative z-1 color-shadow-large rounded-2 p-3 p-md-6 mb-6 bg-blue-dark">
+        <div class="text-center">
+          <h2 class="f0-mktg color-fg-on-emphasis my-4 mt-lg-0">Schools</h2>
+          <hr class="col-2 mx-auto mb-6">
+        </div>
+        <div class="d-md-flex gutter-md-spacious">
+          <div class="col-md-6 d-md-flex flex-column mb-6 mb-md-0">
+            <div class="text-md-center">
+              <h3 class="f1-mktg color-fg-on-emphasis">GitHub Campus Program</h3>
+              <p class="f3 lh-condensed color-fg-on-emphasis my-3 my-md-5">Teach with industry-standard tools, <span class="d-block f6 text-white-fade mt-1">across all your departments and students, for free.</span></p>
+            </div>
+            <ul class="color-fg-on-emphasis list-style-none f5 mb-3 mb-md-5 flex-auto">
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" /><span class="color-bg-success-emphasis rounded-1 color-fg-on-emphasis text-bold text-uppercase p-1" style="font-size: 10px !important;">Free</span> <a href="https://github.com/pricing" class="link-white text-underline">GitHub Enterprise</a> for your GitHub organizations</li>
+              <li class="mb-1 pl-4"><img class="d-inline-block ml-n4 mr-2" alt="✓" data-no-retina="" src="/assets/checkmark-a2a7b6be48bccdd2311ba158870d8374941c89a4baeff2785dc7d44359924f49.svg" /><a href="https://classroom.github.com" class="link-white text-underline">GitHub Classroom</a> for managing assignments</li>
+            </ul>
+            <p class="color-fg-on-emphasis">Available to schools that can agree to the <a href="/partners/schools/terms" class="link-white text-underline">terms</a>:</p>
+            <ul class="color-fg-on-emphasis f5 mb-3 ml-3 mb-md-5 flex-auto">
+              <li class="mb-1">Inform and distribute the product to all interested departments at your school</li>
+              <li class="mb-1">Appoint an administrator to serve as the single point of contact for GitHub and any technical questions from your users</li>
+              <li class="mb-1">Grant GitHub the right to use your logo</li>
+              <li class="mb-1">Provide channels of communication for qualified users</li>
+            </ul>
+              <a href="/partner_school_applications/apply" data-view-component="true" class="benefits__button--accessible-focus Button--secondary Button--large Button f4 text-normal">    <span class="Button-content">
+      <span class="Button-label">Get school benefits</span>
+    </span>
+</a>  
+
+          </div>
+          <div class="col-md-6 d-md-flex flex-column">
+            <div class="text-md-center">
+              <div class="py-md-3"></div>
+              <p class="f3 lh-condensed color-fg-on-emphasis my-5">GitHub Campus Program not for you? <span class="d-block f6 text-white-fade mt-1">We offer GitHub at a discount for schools and universities</span></p>
+            </div>
+            <div class="flex-auto">
+              <div class="benefits__div text-center rounded-2 p-3 p-md-5 mb-3 mb-md-5">
+                <h3 class="f1-mktg color-fg-on-emphasis">Standard University</h3>
+                <h3 class="h2-mktg color-fg-on-emphasis lh-condensed-ultra my-2">25<sup class="pricing-dollar-sign" style="top: -.2em">%</sup></h3>
+                <h3 class="f4-mktg color-fg-on-emphasis">Discount</h3>
+                <p class="f6 text-white-fade">off <a href="https://github.com/pricing" class="link-white text-underline">GitHub Enterprise</a> per seat license</p>
+              </div>
+              <div class="benefits__div text-center rounded-2 p-3 p-md-5 mb-3 mb-md-5">
+                <h3 class="f1-mktg color-fg-on-emphasis">University Unlimited</h3>
+                <h3 class="h2-mktg color-fg-on-emphasis lh-condensed-ultra my-2"><sup class="pricing-dollar-sign" style="top: -.2em">$</sup>50k</h3>
+                <h3 class="f4-mktg color-fg-on-emphasis">Per year</h3>
+                <p class="f6 text-white-fade">for <a href="https://github.com/pricing" class="link-white text-underline">GitHub Enterprise</a> with unlimited seats</p>
+              </div>
+            </div>
+
+              <a href="https://enterprise.github.com/contact" data-view-component="true" class="benefits__button--accessible-focus Button--secondary Button--large Button f4 text-normal">    <span class="Button-content">
+      <span class="Button-label">Contact Sales</span>
+    </span>
+</a>  
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+        
+      </main>
+    </div>
+
+    <footer class="footer mt-6 flex-shrink-0" >
+  <h2 class="sr-only">Footer</h2>
+  <div class="container-xl p-responsive">
+    <div class="d-flex flex-wrap py-5 mb-5">
+      <div class="col-12 col-lg-4 mb-5">
+        <svg role="img" height="30" width="84" class="octicon octicon-github-logo" aria-label="GitHub Logo">
+          <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-logo-github"></use>
+        </svg>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
+        <h3 id="footer-product" class="h4 mb-3 text-mono text-normal">Product</h3>
+        <ul class="list-style-none color-fg-muted f4">
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://github.com/features" data-view-component="true" class="Link--secondary Link">Features</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://github.com/security" data-view-component="true" class="Link--secondary Link">Security</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://github.com/enterprise" data-view-component="true" class="Link--secondary Link">Enterprise</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://github.com/customer-stories" data-view-component="true" class="Link--secondary Link">Customer stories</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://github.com/pricing" data-view-component="true" class="Link--secondary Link">Pricing</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-product" href="https://resources.github.com" data-view-component="true" class="Link--secondary Link">Resources</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h3 id="footer-platform" class="h4 mb-3 text-mono text-normal">Platform</h3>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-platform" href="https://docs.github.com/en/developers/overview/about-githubs-apis" data-view-component="true" class="Link--secondary Link">Developer API</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-platform" href="http://partner.github.com/" data-view-component="true" class="Link--secondary Link">Partners</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-platform" href="https://desktop.github.com/" data-view-component="true" class="Link--secondary Link">GitHub Desktop</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h3 id="footer-support" class="h4 mb-3 text-mono text-normal">Support</h3>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-support" href="https://docs.github.com" data-view-component="true" class="Link--secondary Link">Docs</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-support" href="https://github.com/orgs/github-community/discussions/categories/github-education" data-view-component="true" class="Link--secondary Link">Community Forum</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-support" href="https://services.github.com/" data-view-component="true" class="Link--secondary Link">Professional Services</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-support" href="https://githubstatus.com/" data-view-component="true" class="Link--secondary Link">Status</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-support" href="https://github.com/contact" data-view-component="true" class="Link--secondary Link">Contact GitHub</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h3 id="footer-company" class="h4 mb-3 text-mono text-normal">Company</h3>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://github.com/about" data-view-component="true" class="Link--secondary Link">About</a>
+          </li>
+        <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://github.blog" data-view-component="true" class="Link--secondary Link">Blog</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://github.com/about/careers" data-view-component="true" class="Link--secondary Link">Careers</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://github.com/about/press" data-view-component="true" class="Link--secondary Link">Press</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://socialimpact.github.com/" data-view-component="true" class="Link--secondary Link">Social Impact</a>
+          </li>
+          <li class="lh-condensed mb-3">
+            <a aria-describedby="footer-company" href="https://shop.github.com" data-view-component="true" class="Link--secondary Link">Shop</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="color-bg-subtle">
+    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-items-center">
+      <ul class="list-style-none d-flex color-fg-muted">
+        <li class="mr-3">© 2023 GitHub, Inc.</li>
+        <li class="mr-3"><a href="https://github.com/site/terms" class="Link--secondary">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" class="Link--secondary">Privacy</a></li>
+      </ul>
+      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
+        <li class="mr-3">
+          <a href="https://twitter.com/github" data-view-component="true" class="Link--secondary Link">
+            <svg role="img" height="18" width="22" class="icon-twitter icon" fill="currentColor" aria-label="GitHub Twitter link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-twitter"></use>
+            </svg>
+</a>        </li>
+        <li class="mr-3">
+          <a href="https://www.facebook.com/GitHub" data-view-component="true" class="Link--secondary Link">
+            <svg role="img" height="18" width="22" class="icon-facebook icon" fill="currentColor" aria-label="GitHub Facebook link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-facebook"></use>
+            </svg>
+</a>        </li>
+        <li class="mr-3">
+          <a href="https://www.youtube.com/github" data-view-component="true" class="Link--secondary Link">
+            <svg role="img" height="18" width="22" class="icon-youtube icon" fill="currentColor" aria-label="GitHub Youtube link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-youtube"></use>
+            </svg>
+</a>        </li>
+        <li class="mr-3">
+          <a href="https://linkedin.com/company/github" data-view-component="true" class="Link--secondary Link">
+            <svg role="img" height="18" width="22" class="icon-linkedin icon" fill="currentColor" aria-label="GitHub LinkedIn link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-linkedin"></use>
+            </svg>
+</a>        </li>
+        <li>
+          <a href="https://github.com/github" data-view-component="true" class="Link--secondary Link">
+            <svg role="img" height="20" width="20" class="icon-mark-github icon" fill="currentColor" aria-label="GitHub link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-mark-github"></use>
+            </svg>
+</a>        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+    
+
+    <script src="/assets/components-6e31bfadd95f5302cdb477326f359feeb4e16ff792f9cbd7a0075ce03ea66463.js" crossorigin="anonymous" integrity="sha256-bjG/rdlfUwLNtHcybzWf7rThb/eS+cvXoAdc4D6mZGM="></script>
+      <script src="https://cdn.usefathom.com/script.js" data-site="BSUAGGDZ" defer></script>
+  </body>
+</html>
+�w���           exIFUC'exH   N    O^partitionKey=%28https%2Cgithub.com%29,:https://education.github.com/benefits strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 
+server: GitHub.com
+date: Tue, 12 Dec 2023 08:31:04 GMT
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"4dcb8d10650d9b71c90e6a7057f045e1"
+cache-control: max-age=0, private, must-revalidate
+content-security-policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net cdn.usefathom.com *.facebook.com speakerdeck.com *.youtube.com *.youtube-nocookie.com embed.twitch.tv player.twitch.tv; connect-src 'self' github-education-web.s3.amazonaws.com blobaccountproduction.blob.core.windows.net *.clearbit.com www.google.com *.githubusercontent.com geoip-js.com *.virtualearth.net *.bing.com *.virtualearth.net api.github.com atlas.microsoft.com collector.githubapp.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com blobaccountproduction.blob.core.windows.net cdn.usefathom.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com analytics.twitter.com t.co t.com *.facebook.com *.twitter.com *.youtube.com raw.githubusercontent.com static-cdn.jtvnw.net dl.airtable.com *.bing.com *.virtualearth.net atlas.microsoft.com; font-src 'self' dwa5x7aod66zk.cloudfront.net atlas.microsoft.com; script-src 'self' dwa5x7aod66zk.cloudfront.net www.google.com cdn.usefathom.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com *.githubassets.com js.maxmind.com static.ads-twitter.com snap.licdn.com geoip-js.com embed.twitch.tv analytics.twitter.com *.bing.com *.virtualearth.net *.jquery.com *.cloudflare.com *.bootstrapcdn.com unpkg.com 'nonce-Z3V36ewYjBJJfumP3QKmlw=='; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com *.bing.com *.virtualearth.net unpkg.com
+x-runtime: 0.118687
+strict-transport-security: max-age=31536000
+x-github-backend: Kubernetes
+x-github-request-id: 4439:31BF:8E52DB:F4AE73:65781A48
+X-Firefox-Spdy: h2
+ original-response-headers server: GitHub.com
+date: Tue, 12 Dec 2023 08:31:04 GMT
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"4dcb8d10650d9b71c90e6a7057f045e1"
+cache-control: max-age=0, private, must-revalidate
+content-security-policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net cdn.usefathom.com *.facebook.com speakerdeck.com *.youtube.com *.youtube-nocookie.com embed.twitch.tv player.twitch.tv; connect-src 'self' github-education-web.s3.amazonaws.com blobaccountproduction.blob.core.windows.net *.clearbit.com www.google.com *.githubusercontent.com geoip-js.com *.virtualearth.net *.bing.com *.virtualearth.net api.github.com atlas.microsoft.com collector.githubapp.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com blobaccountproduction.blob.core.windows.net cdn.usefathom.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com analytics.twitter.com t.co t.com *.facebook.com *.twitter.com *.youtube.com raw.githubusercontent.com static-cdn.jtvnw.net dl.airtable.com *.bing.com *.virtualearth.net atlas.microsoft.com; font-src 'self' dwa5x7aod66zk.cloudfront.net atlas.microsoft.com; script-src 'self' dwa5x7aod66zk.cloudfront.net www.google.com cdn.usefathom.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com *.githubassets.com js.maxmind.com static.ads-twitter.com snap.licdn.com geoip-js.com embed.twitch.tv analytics.twitter.com *.bing.com *.virtualearth.net *.jquery.com *.cloudflare.com *.bootstrapcdn.com unpkg.com 'nonce-Z3V36ewYjBJJfumP3QKmlw=='; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com *.bing.com *.virtualearth.net unpkg.com
+x-runtime: 0.118687
+strict-transport-security: max-age=31536000
+x-github-backend: Kubernetes
+x-github-request-id: 4439:31BF:8E52DB:F4AE73:65781A48
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0   �

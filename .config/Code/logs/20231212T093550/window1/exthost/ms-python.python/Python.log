@@ -1,0 +1,36 @@
+2023-12-12 09:36:46.475 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-12 09:36:46.475 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-12 09:36:46.475 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-12 09:36:46.475 [info] Experiment 'pythonTestAdapter' is active
+2023-12-12 09:36:46.475 [info] Default formatter is set to null for workspace /home/tango/day2
+2023-12-12 09:36:46.475 [info] Test server listening.
+2023-12-12 09:36:46.475 [info] Python interpreter path: /bin/python3
+2023-12-12 09:36:46.600 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/interpreterInfo.py
+2023-12-12 09:36:46.609 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-12 09:36:46.609 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-12 09:36:46.609 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-12 09:36:46.609 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-12 09:36:46.609 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-12 09:36:46.617 [info] > ./venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/interpreterInfo.py
+2023-12-12 09:36:46.643 [info] Python interpreter path: ./venv/bin/python
+2023-12-12 09:36:48.067 [info] Starting Pylance language server.
+2023-12-12 09:36:48.349 [info] CreateEnv Trigger - Workspace not found for /home/tango/answer.py
+2023-12-12 09:36:48.455 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 09:36:48.955 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/answer.py
+2023-12-12 09:53:24.500 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/solver.py
+2023-12-12 09:53:36.267 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/solver.py
+2023-12-12 09:53:38.411 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/solver.py
+2023-12-12 09:57:45.394 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 09:57:45.525 [info] Discover tests for workspace name: day2 - uri: /home/tango/day2/solver.py
+2023-12-12 09:57:45.894 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 09:57:55.312 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 09:57:56.270 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 09:58:23.374 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 09:58:28.059 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 09:58:28.561 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/answer.py
+2023-12-12 09:58:36.631 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 10:01:07.032 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 10:01:08.039 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 10:01:12.713 [info] Send text to terminal: source /home/tango/day2/venv/bin/activate
+2023-12-12 10:01:13.215 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py
+2023-12-12 12:02:43.780 [info] Send text to terminal: /home/tango/day2/venv/bin/python /home/tango/day2/solver.py

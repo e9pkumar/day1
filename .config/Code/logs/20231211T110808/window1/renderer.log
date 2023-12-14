@@ -1,0 +1,36 @@
+2023-12-11 11:08:09.736 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-11 11:08:10.008 [info] Started local extension host with pid 5051.
+2023-12-11 11:08:10.091 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tango/.vscode/extensions
+2023-12-11 11:08:10.363 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tango/.vscode/extensions
+2023-12-11 11:08:13.072 [info] [perf] Render performance baseline is 52ms
+2023-12-11 11:21:07.353 [error] Unable to read file '/home/tango/program1.py' (Error: File not modified since): Error: Unable to read file '/home/tango/program1.py' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18798)
+    at n.D (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:38735
+2023-12-11 11:27:58.438 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-11 14:55:06.402 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-11 14:55:10.045 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-11 15:09:47.460 [error] Unable to read file '/home/tango/day1/maths1.py' (Error: File not modified since): Error: Unable to read file '/home/tango/day1/maths1.py' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18798)
+    at n.D (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:38735
+2023-12-11 17:59:36.088 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at b.f (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1687:11513)
+    at o.value (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1687:11334)

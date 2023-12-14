@@ -1,0 +1,25 @@
+2023-12-12 09:35:54.980 [info] Log level: Info
+2023-12-12 09:35:54.980 [info] Validating found git in: "git"
+2023-12-12 09:35:54.980 [info] Using git "2.25.1" from "git"
+2023-12-12 09:35:54.980 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-12 09:35:54.981 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-12 09:36:46.163 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-12 09:52:02.240 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-12 09:57:36.921 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-12 09:58:25.961 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-12 09:58:33.712 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-12 09:58:34.619 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-12 11:55:38.088 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-12 11:55:38.094 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-12 11:55:38.104 [info] Open repository: /home/tango/day2/clone repo/lesson-002-e9pkumar
+2023-12-12 11:55:38.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-12 11:55:38.116 [info] > git config --get commit.template [6ms]
+2023-12-12 11:55:38.123 [info] > git status -z -uall [1ms]
+2023-12-12 11:55:38.132 [info] > git config --get commit.template [1ms]
+2023-12-12 11:55:38.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-12 11:55:38.165 [info] > git status -z -uall [21ms]
+2023-12-12 12:01:34.200 [info] > git config --get commit.template [5ms]
+2023-12-12 12:01:34.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-12-12 12:01:34.206 [warning] ENOENT: no such file or directory, open '/home/tango/day2/clone repo/lesson-002-e9pkumar/.git/refs/remotes/origin/main'
+2023-12-12 12:01:34.207 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2023-12-12 12:01:34.215 [info] > git status -z -uall [1ms]

@@ -1,0 +1,17 @@
+2023-12-12 12:08:22.508 [info] update#setState idle
+2023-12-12 12:08:42.042 [info] Extension host with pid 9645 exited with code: 0, signal: unknown.
+2023-12-12 12:08:43.043 [error] Extension host with pid 9645 still exists, forcefully killing it...
+2023-12-12 12:08:52.433 [info] update#setState checking for updates
+2023-12-12 12:08:52.436 [info] update#setState idle
+2023-12-12 13:08:52.437 [info] update#setState checking for updates
+2023-12-12 13:08:52.440 [info] update#setState idle
+2023-12-12 14:08:52.441 [info] update#setState checking for updates
+2023-12-12 14:08:52.443 [info] update#setState idle
+2023-12-12 14:16:23.009 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-12 14:16:47.044 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-12 15:08:52.443 [info] update#setState checking for updates
+2023-12-12 15:08:52.448 [info] update#setState idle
+2023-12-12 16:08:52.445 [info] update#setState checking for updates
+2023-12-12 16:08:52.448 [info] update#setState idle
+2023-12-12 16:41:13.905 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-12 16:41:25.133 [error] CodeWindow: detected unresponsive

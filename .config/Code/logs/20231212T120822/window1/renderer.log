@@ -1,0 +1,47 @@
+2023-12-12 12:08:22.817 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-12 12:08:23.226 [info] Started local extension host with pid 9645.
+2023-12-12 12:08:25.898 [info] [perf] Render performance baseline is 35ms
+2023-12-12 12:08:42.305 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-12 12:08:42.529 [info] Started local extension host with pid 9864.
+2023-12-12 12:08:45.294 [info] [perf] Render performance baseline is 42ms
+2023-12-12 12:18:11.820 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:23:56.853 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:36:33.124 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:38:39.696 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at b.f (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1687:11513)
+    at o.value (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1687:11334)
+2023-12-12 14:13:22.301 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-12 14:20:00.778 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-12 14:20:04.240 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-12 14:20:07.133 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-12 14:20:11.761 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-12 15:45:50.756 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 16:41:31.925 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:12495

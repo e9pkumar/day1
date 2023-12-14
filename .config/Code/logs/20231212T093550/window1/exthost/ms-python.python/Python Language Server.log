@@ -1,0 +1,12 @@
+2023-12-12 09:36:48.058 [info] [Info  - 09:36:48] (5184) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-12 09:36:48.058 [info] [Info  - 09:36:48] (5184) Server root directory: /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-12 09:36:48.058 [info] [Info  - 09:36:48] (5184) Starting service instance "day2"
+2023-12-12 09:36:48.088 [info] [Info  - 09:36:48] (5184) Setting pythonPath for service "day2": "/home/tango/day2/venv/bin/python"
+2023-12-12 09:36:48.088 [info] [Info  - 09:36:48] (5184) Setting environmentName for service "day2": "3.8.10 (venv venv)"
+2023-12-12 09:36:48.111 [info] [Info  - 09:36:48] (5184) Assuming Python version 3.8
+2023-12-12 09:36:48.152 [info] [Info  - 09:36:48] (5184) Auto-excluding /home/tango/day2/venv
+2023-12-12 09:36:48.153 [info] [Info  - 09:36:48] (5184) No source files found.
+2023-12-12 09:57:15.589 [info] [Info  - 09:57:15] (5184) Found 1 source file
+2023-12-12 10:00:54.032 [info] [Info  - 10:00:54] (5184) Found 1 source file
+2023-12-12 11:59:24.305 [info] [Info  - 11:59:24] (5184) Found 2 source files
+2023-12-12 12:03:09.968 [info] [Info  - 12:03:09] (5184) Found 2 source files

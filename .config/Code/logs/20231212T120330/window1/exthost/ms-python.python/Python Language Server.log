@@ -1,0 +1,11 @@
+2023-12-12 12:03:33.430 [info] [Info  - 12:03:33] (8871) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-12 12:03:33.430 [info] [Info  - 12:03:33] (8871) Server root directory: /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-12 12:03:33.446 [info] [Info  - 12:03:33] (8871) Starting service instance "<default>"
+2023-12-12 12:03:33.470 [info] [Info  - 12:03:33] (8871) Setting pythonPath for service "<default>": "/bin/python3"
+2023-12-12 12:03:33.470 [info] [Info  - 12:03:33] (8871) Setting environmentName for service "<default>": "3.8.10 (global)"
+2023-12-12 12:03:33.487 [info] [Info  - 12:03:33] (8871) Assuming Python version 3.8
+2023-12-12 12:03:33.524 [info] [Info  - 12:03:33] (8871) No source files found.
+2023-12-12 12:03:33.577 [info] [Info  - 12:03:33] (8871) Setting pythonPath for service "<default>": "/bin/python3"
+2023-12-12 12:03:33.577 [info] [Info  - 12:03:33] (8871) Setting environmentName for service "<default>": "3.8.10 (global)"
+2023-12-12 12:03:33.612 [info] [Info  - 12:03:33] (8871) Assuming Python version 3.8
+2023-12-12 12:03:33.664 [info] [Info  - 12:03:33] (8871) No source files found.

@@ -1,0 +1,26 @@
+file:///home/tango/day2/venv/a.py {"mtime":1702370998709,"ctime":1702370998709,"size":0,"etag":"3bjsa3mna0","orphaned":false,"typeId":""}
+def fibonnaci(num):
+    a,b=0,1
+    while True:
+        yield a
+
+c=fibonnaci()
+print(next(c))
+print(nrxt(c))
+
+
+def fibonnaci(num):
+    while num <= 4000000:
+        for i in range (4000001):
+            a,b=0,1
+            while True:
+                yield a
+                a,b=b,a+b
+            
+c=fibonnaci(4000000)
+for i in c:
+   numbers = print(i)
+   
+   even_num = lambda(x : x%2 , numbers)
+   print(even_num)
+

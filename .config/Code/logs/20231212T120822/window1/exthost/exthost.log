@@ -1,0 +1,63 @@
+2023-12-12 12:08:23.464 [info] Extension host with pid 9645 started
+2023-12-12 12:08:23.582 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-12 12:08:23.588 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 12:08:23.837 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 12:08:24.632 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-12 12:08:24.643 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-12 12:08:24.659 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-12 12:08:24.694 [info] Eager extensions activated
+2023-12-12 12:08:24.710 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 12:08:24.712 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 12:08:42.024 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-12 12:08:42.041 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+	at _.shutdown (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-12 12:08:42.041 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+	at _.shutdown (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-12 12:08:42.041 [info] Extension host with pid 9645 exiting with code 0
+2023-12-12 12:08:42.771 [info] Extension host with pid 9864 started
+2023-12-12 12:08:42.771 [info] Skipping acquiring lock for /home/tango/.config/Code/User/workspaceStorage/71b1cdaa1e7d719bae33c2322f655cd1.
+2023-12-12 12:08:42.800 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-12 12:08:42.806 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 12:08:43.043 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 12:08:43.705 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-12 12:08:43.713 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-12 12:08:43.727 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-12 12:08:43.766 [info] Eager extensions activated
+2023-12-12 12:08:43.788 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 12:08:43.790 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 12:10:26.229 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-12-12 12:18:11.818 [error] [ms-python.python] provider FAILED
+2023-12-12 12:18:11.818 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:23:56.822 [error] [ms-python.python] provider FAILED
+2023-12-12 12:23:56.822 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:36:33.122 [error] [ms-python.python] provider FAILED
+2023-12-12 12:36:33.122 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-12 12:38:39.650 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-12 15:45:50.752 [error] [ms-python.python] provider FAILED
+2023-12-12 15:45:50.752 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ve.provideCompletionItems (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)

@@ -1,0 +1,41 @@
+file:///home/tango/day2/clone%20repo/lesson-002-e9pkumar/assignment.py {"mtime":1702367568161,"ctime":1702362563884,"size":746,"etag":"3bjs583jho2","orphaned":false,"typeId":""}
+import random
+def random_name():
+	# Write code to replace first_name and last_name with 
+	# non-blank values that are between 8 and 12 chars in length
+	# First letter of both first_name and last_name should be capitalized 
+	# while all the rest of the letters must be in lowercase
+	first_name = random.choices
+	last_name = ""
+	return first_name, last_name
+
+
+def random_age():
+
+	age=0
+	
+# Return a random number between 18 and 81
+#   age1=random.int()
+	if age1 in range (18,81):
+		age += 1
+
+	age = -1
+	return age
+
+
+def random_person():
+	first_name, last_name = random_name()
+	result = {
+		"first_name": first_name,
+		"last_name": last_name,
+		"age": random_age()
+	}
+
+	return result
+
+
+def getlist(num_people):
+	# return a list of unique random_people of length = num_people
+	result = None
+	print result
+	return result

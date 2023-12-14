@@ -1,0 +1,8 @@
+2023-12-12 18:05:13.867 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-12 18:05:13.867 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-12 18:05:13.867 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-12 18:05:13.867 [info] Experiment 'pythonTestAdapter' is active
+2023-12-12 18:05:13.935 [info] Default formatter is set to null for workspace /home/tango/day2
+2023-12-12 18:05:13.957 [info] Test server listening.
+2023-12-12 18:05:13.958 [info] Python interpreter path: ./venv/bin/python
+2023-12-12 18:05:15.828 [info] Starting Pylance language server.

@@ -1,0 +1,103 @@
+2023-12-12 09:35:51.666 [info] Extension host with pid 4999 started
+2023-12-12 09:35:51.666 [info] Skipping acquiring lock for /home/tango/.config/Code/User/workspaceStorage/71b1cdaa1e7d719bae33c2322f655cd1.
+2023-12-12 09:35:51.705 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-12 09:35:51.711 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-12 09:35:51.732 [info] Eager extensions activated
+2023-12-12 09:35:51.736 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 09:35:51.739 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-12 09:35:54.904 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-12 09:36:46.255 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 09:36:46.344 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-12 09:36:46.478 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-12 10:01:13.272 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-12-12 11:55:38.144 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-12 12:03:15.033 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-12 12:03:15.057 [error] Canceled: Canceled
+	at new g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at p.registerCommand.description (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at f.I [as value] (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:924696)
+	at n.y (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:940613)
+	at /snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:945566
+	at Array.forEach (<anonymous>)
+	at p.dispose (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:945552)
+	at u.<anonymous> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+	at u.dispose (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at u.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:926708)
+	at u.dispose (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at s (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at f.cb (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+	at /snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-12 12:03:15.058 [error] Canceled: Canceled
+	at new g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at p.registerCommand.description (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at set b [as b] (/snap/code/147/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322364)
+	at /snap/code/147/usr/share/code/resources/app/extensions/github/dist/extension.js:2:323005
+	at f.value (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:1016450)
+	at n.y (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:940613)
+	at /snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:945566
+	at Array.forEach (<anonymous>)
+	at p.dispose (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:945552)
+	at u.<anonymous> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+	at u.dispose (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at u.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/git/dist/main.js:2:926708)
+	at u.dispose (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at s (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at f.cb (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+	at /snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/snap/code/147/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-12 12:03:15.059 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+	at _.shutdown (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-12 12:03:15.059 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+	at _.shutdown (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+	at _.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+	at Object.stop (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/tango/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-12 12:03:15.059 [info] Extension host with pid 4999 exiting with code 0

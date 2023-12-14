@@ -1,0 +1,14 @@
+2023-12-12 08:57:43.190 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-12 08:57:43.190 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-12 08:57:43.190 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-12 08:57:43.190 [info] Experiment 'pythonTestAdapter' is active
+2023-12-12 08:57:43.232 [info] Test server listening.
+2023-12-12 08:57:43.232 [info] Python interpreter path: /bin/python3
+2023-12-12 08:57:44.950 [info] Starting Pylance language server.
+2023-12-12 08:58:44.095 [info] CreateEnv Trigger - Workspace not found for /home/tango/solver.py
+2023-12-12 08:58:44.240 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-12 08:58:51.265 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-12 09:12:29.078 [info] Send text to terminal: /bin/python3 /home/tango/solver.py
+2023-12-12 09:34:55.114 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-12 09:34:57.442 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
+2023-12-12 09:35:04.761 [info] Send text to terminal: /bin/python3 /home/tango/answer.py
