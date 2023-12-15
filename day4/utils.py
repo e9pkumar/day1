@@ -1,59 +1,107 @@
-#def evenify(input_numbers):
-
-def get_list():
-    n = int(input("Enter the number of items you want:"))
-    l = []
-    for i in range(n):
-        n1=int(input())
-        l.append(n1)
-    print(l)
-    
-def evenify(get_list):
-    input_numbers = []
-    for i in get_list:
+def evenify(input_numbers):
+    even_numbers = []
+    for i in input_numbers:
         if i % 2 == 0:
-            input_numbers.append(i)
+            even_numbers.append(i)
+    return even_numbers
 
-        else:
-            pass
-
-if __name__ == "__main__" :
-    print(evenify(input_numbers(get_list)))
-
-# 2. foo_max(items): find and return the maximum element in the list (items); you may not use the built-in max() function.
-    
-def foo_max(items):
-    items = [2,8,9,6]
-    max_number= 0
+def max_number(items):
+    max_number = 0
     maximum = items[0]
-    for i in items :
-        if i>maximum:
-           max_number += i
-        else:
-            pass
-    return(max_number)
-#if __name__ == "__main__":
-    #print(foo_max(items=[2,8,9,6]))
+
+    for i in items:
+        if i > maximum:
+            maximum = i
+            max_number = i
+
+    return max_number
 
 
-# 3. sautee(sentence): take a sentence and return the sentence with the words in reverse order.
 
 def sautee(sentence):
-   
+    string1= sentence.split()
+    for i in string1:
+        string1=string1[::-1]
+        string2=" ".join(string1)
+        return string2
+
+
+# 4.flambe(sentence): returns a new list with the words sorted by their length.
+
+def flamebe(sentence):
+
     string1 = sentence.split()
-    
-
-    for each in string1 :
-        each = each[::-1]
-        string1.append(each)
-    string2 = "".join(string1)
-
+    string2= sorted(string1,key=len)
     return string2
-    
-if __name__ == "__main__" :
-    sentence = input("Enter any sentence:")
+
+
+from datetime import datetime
+
+def poach(dt):
+    if not isinstance(dt, datetime):
+        raise ValueError("Input must be a datetime object.")
+    return dt.year % 4 == 0 and (dt.year % 100 != 0 or dt.year % 400 == 0)
+
+
+import math  
+def heron(a,b,c):
+    s = ((a+b+c)/2)
+    area = math.sqrt((s * (s - a) * (s - b) * (s - c)))
+
+    return area
+
+
+
+
+# heron(a, b, c): return the area of a triangle given the lengths of its three sides (Heron's formula).
+# 5. s = (a + b + c) / 2
+#    area = √(s * (s - a) * (s - b) * (s - c))
+
+
+
+
+if __name__ == "__main__":
+    # 1: Evenify
+    n = int(input("Enter the number of items you want: "))
+    l = [int(input()) for _ in range(n)]
+    print("Original list:", l)
+    result = evenify(l)
+    print("Even numbers from the list:", result)
+
+    # 2: Max Number
+    n = int(input("Enter number of items in the list: "))
+    items = [int(input()) for _ in range(n)]
+    print("List:", items)
+    print("Maximum number:", max_number(items))
+
+
+    # 3:Take a sentence and return the sentence with the words in reverse order
+    sentence=input("Enter any sentence:")
     print(sautee(sentence))
 
+    # 4:Returns a new list with the words sorted by their length.
+    sentence = input("Enter the sentence:")
+    print(flamebe(sentence))
+
+    # 5:Leap year or not
+    try:
+        input_date = input("Enter a date (YYYY): ")
+        date = datetime.strptime(input_date, "%Y")
+        result = poach(date)
+        print(f"The year {date.year} {'is' if result else 'is not'} a leap year.")
+    except ValueError as e:
+        print(f"Error: {e}")
 
     
-# 4.flambe(sentence): returns a new list with the words sorted by their length.
+
+    # 6: Heron Formula
+    a=int(input("Enter any number:"))
+    b=int(input("Enter any number:"))
+    c=int(input("Enter any number:"))
+
+    print(heron(a,b,c))
+
+    
+
+
+    
